@@ -30,7 +30,9 @@ Sora is a text-to-video generative AI model, released by OpenAI in February 2024
 ## Updates
 📄[27/02/2024]xxxx
 
-## History of Generative AI in Vision Domain
+## History of Generative AI in the Vision Domain
+<div align="center">
+<img src="https://raw.githubusercontent.com/lichao-sun/SoraReview/main/image/history.png" width="85%"></div>
 
 ## Paper List
 <div align="left">
