@@ -7,6 +7,7 @@
 ## Table of Contents
 - 💡[About](#about)
 - ✨[Updates](#updates)
+- 🕰️[History of Generative AI in Vision Domain](#history-of-generative-ai-in-vision-domain)
 - 📑[Paper List](#paper-list)
     - [Technology](#technology)
         - [Data Pre-processing](#data-pre-processing)
@@ -27,8 +28,14 @@ Sora is a text-to-video generative AI model, released by OpenAI in February 2024
 <img src="https://raw.githubusercontent.com/lichao-sun/SoraReview/main/image/sora_framework.png" width="85%"></div>
 
 ## Updates
+📄[27/02/2024]xxxx
+
+## History of Generative AI in Vision Domain
 
 ## Paper List
+<div align="left">
+<img src="https://raw.githubusercontent.com/lichao-sun/SoraReview/main/image/paper_list_structure.png" width="60%"></div>
+
 ### Technology
 ####  Data Pre-processing
 - (*NeurIPS'23*) Patch n’Pack: Navit, A Vision Transformer for Any Aspect Ratio and Resolution [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/06ea400b9b7cfce6428ec27a371632eb-Paper-Conference.pdf)
