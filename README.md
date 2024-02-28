@@ -1,6 +1,6 @@
 # Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models
 
-> 🔍 See our paper: [**"Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models"**]() [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)]()
+> 🔍 See our paper: [**"Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models"**](https://arxiv.org/abs/2402.17177) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](https://arxiv.org/abs/2402.17177)
 > 
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: lis221@lehigh.edu
 
@@ -28,7 +28,7 @@ Sora is a text-to-video generative AI model, released by OpenAI in February 2024
 <img src="https://raw.githubusercontent.com/lichao-sun/SoraReview/main/image/sora_framework.png" width="85%"></div>
 
 ## Updates
-📄 [27/02/2024]xxxx
+- 📄 [28/02/2024] Our paper has been uploaded to arXiv and was selected as the Daily Paper by Hugging Face.
 
 ## History of Generative AI in the Vision Domain
 <div align="center">
@@ -125,6 +125,12 @@ Sora is a text-to-video generative AI model, released by OpenAI in February 2024
 ## Citation
 
 ```
-@article{SoraReview,
+@misc{2024SoraReview,
+      title={Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models}, 
+      author={Yixin Liu and Kai Zhang and Yuan Li and Zhiling Yan and Chujie Gao and Ruoxi Chen and Zhengqing Yuan and Yue Huang and Hanchi Sun and Jianfeng Gao and Lifang He and Lichao Sun},
+      year={2024},
+      eprint={2402.17177},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
