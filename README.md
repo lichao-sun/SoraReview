@@ -56,6 +56,9 @@ Sora is a text-to-video generative AI model, released by OpenAI in February 2024
 - (*CVPR'23*) All Are Worth Words: A ViT Backbone for Diffusion Models [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_All_Are_Worth_Words_A_ViT_Backbone_for_Diffusion_Models_CVPR_2023_paper.pdf)[[code]](https://github.com/baofff/U-ViT)
 - (*ICCV'23*) Masked Diffusion Transformer Is a Strong Image Synthesizer [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf)[[code]](https://github.com/sail-sg/mdt)
 - (*arXiv 2023.12*) DiffiT: Diffusion Vision Transformers for Image Generation [[paper]](https://arxiv.org/abs/2312.02139)[[code]](https://github.com/nvlabs/diffit)
+- (*CVPR'24*) GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation [[paper]](https://arxiv.org/abs/2312.04557)
+- (*arXiv 2023.09*) LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models [[paper]](https://arxiv.org/abs/2309.15103)[[code]](https://github.com/Vchitect/LaVie)
+- (*arXiv 2024.01*) Latte: Latent Diffusion Transformer for Video Generation [[paper]](https://arxiv.org/abs/2401.03048)[[code]](https://github.com/Vchitect/Latte)
 #### Language Instruction Following
 - Improving Image Generation with Better Captions [[paper]](https://cdn.openai.com/papers/dall-e-3.pdf)
 - (*arXiv 2022.05*) CoCa: Contrastive Captioners are Image-Text Foundation Models [[paper]](https://arxiv.org/abs/2205.01917)[[code]](https://github.com/lucidrains/CoCa-pytorch)
