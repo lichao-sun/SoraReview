@@ -59,6 +59,7 @@ Sora is a text-to-video generative AI model, released by OpenAI in February 2024
 - (*CVPR'24*) GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation [[paper]](https://arxiv.org/abs/2312.04557)
 - (*arXiv 2023.09*) LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models [[paper]](https://arxiv.org/abs/2309.15103)[[code]](https://github.com/Vchitect/LaVie)
 - (*arXiv 2024.01*) Latte: Latent Diffusion Transformer for Video Generation [[paper]](https://arxiv.org/abs/2401.03048)[[code]](https://github.com/Vchitect/Latte)
+- (*arXiv 2024.03*) Scaling Rectified Flow Transformers for High-Resolution Image Synthesis [[paper]](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)
 #### Language Instruction Following
 - Improving Image Generation with Better Captions [[paper]](https://cdn.openai.com/papers/dall-e-3.pdf)
 - (*arXiv 2022.05*) CoCa: Contrastive Captioners are Image-Text Foundation Models [[paper]](https://arxiv.org/abs/2205.01917)[[code]](https://github.com/lucidrains/CoCa-pytorch)
