@@ -1,6 +1,7 @@
 # Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models
 
 > 🔍 See our paper: [**"Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models"**](https://arxiv.org/abs/2402.17177) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](https://arxiv.org/abs/2402.17177)
+> 
 > 🔍 See our newest Video Generation paper: [**"Mora: Enabling Generalist Video Generation via A Multi-Agent Framework"**](https://arxiv.org/abs/2402.17177) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](https://arxiv.org/abs/2402.17177) [![GitHub](https://img.shields.io/badge/Gtihub-%F0%9F%8E%93-lightblue?style=flat-square))](https://github.com/lichao-sun/Mora)
 > 
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: lis221@lehigh.edu
